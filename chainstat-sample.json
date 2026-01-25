@@ -1,0 +1,26 @@
+{
+  "id": "lppalfa",
+  "epoch": 3,
+  "disk_usage": 15,
+  "el": {
+    "status": "enabled/active",
+    "peers": 14,
+    "blk": 79,
+    "bal": 0
+  },
+  "cl": {
+    "status": "enabled/active",
+    "peers": 14,
+    "syncing": false,
+    "head": 96,
+    "expected": 96,
+    "dist": 0
+  },
+  "val": {
+    "status": "enabled/active",
+    "staking": false,
+    "total_count": 120,
+    "interop_index": 0,
+    "interop_count": 10
+  }
+}
